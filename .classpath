@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BoxOffice_190707/src"/>
+	<classpathentry kind="lib" path="BoxOffice_190707/BOXOFFICE.jar"/>
+	<classpathentry kind="lib" path="C:/jdbc/ojdbc6.jar"/>
+	<classpathentry kind="output" path="BoxOffice_190707/bin"/>
+</classpath>
